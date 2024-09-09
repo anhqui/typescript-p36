@@ -7,13 +7,8 @@ export interface PizzaProps{
     price: number
 }
 
-const Pizza = new DataResource<PizzaProps>(
+export const Pizza = new DataResource<PizzaProps>(
     'http://localhost:3000/pizzas'
 )
 
-Pizza.save({
-    title: 'abc',
-    description: 'yummy',
-    toppings: ['mushrooms', 'peppers', 'olives'],
-    price: 25
-})
+

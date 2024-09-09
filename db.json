@@ -28,16 +28,6 @@
         ],
         "price": 15,
         "id": 3
-      },
-      {
-        "id": "be5a",
-        "title": "banh bao",
-        "description": "dat cang som cang tot",
-        "toppings": [
-          "mushrooms",
-          "peppers"
-        ],
-        "price": 25
       }
     ]
   }

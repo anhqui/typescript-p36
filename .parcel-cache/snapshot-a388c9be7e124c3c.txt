@@ -5,7 +5,7 @@
 99C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133702016166734097 0
 94C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-tree\lib\tokenizer\adopt-buffer.js133702016316853703 0
 103C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133702016336223681 0
-71C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.ebeadb08.css.map133703234290197072 0
+71C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.ebeadb08.css.map133708419666245301 0
 80C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\@parcel\packager-css\lib133702016110043673 1
 79C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\semver\functions\inc.js133702016193413679 0
 81C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-select\lib\index.d.ts133702016280913914 0
@@ -41,7 +41,7 @@
 126C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.d.ts.map133702016192353680 0
 86C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\csso\node_modules\css-tree\lib133702016349563689 1
 84C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\timsort\build\timsort.min.js133702016152903684 0
-69C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.891f0f0b.js.map133703234290757077 0
+69C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.891f0f0b.js.map133708419665955475 0
 115C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts.map133702016234963681 0
 104C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\csso\node_modules\css-tree\cjs\syntax\create.cjs133702016211363686 0
 61C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\@lmdb133702016467513917 1
@@ -53,7 +53,7 @@
 107C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133702016214523686 0
 93C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\domelementtype\lib\esm\index.d.ts.map133702016148753716 0
 72C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\get-port\license133702016121863688 0
-65C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.891f0f0b.js133703234290707085 0
+65C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.891f0f0b.js133708419665665301 0
 111C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-select\node_modules\domutils\lib\esm\stringify.d.ts133702016266764083 0
 125C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.d.ts133702016223213900 0
 76C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\escape-string-regexp133702016119803715 1
@@ -89,7 +89,7 @@
 130C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\addClassesToSVGElement.js133702016165803698 0
 64C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\mdn-data133702016220003921 1
 101C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\caniuse-lite\data\features\permissions-api.js133702016437363695 0
-47C:\xamppphp74\htdocs\typescript\pizza-menu\dist133703234290777068 1
+47C:\xamppphp74\htdocs\typescript\pizza-menu\dist133708419666255317 1
 81C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\csso\lib\replace\index.js133702016276633693 0
 101C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-select\node_modules\domutils\lib\feeds.js133702016121873693 0
 55C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules133702016470733697 1
@@ -1988,7 +1988,7 @@
 92C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\caniuse-lite\data\features\webnfc.js133702016455213716 0
 107C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133702016233384417 0
 102C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133702016113763700 0
-74C:\xamppphp74\htdocs\typescript\pizza-menu\src\ts\services\DataResource.ts133703233162427047 0
+74C:\xamppphp74\htdocs\typescript\pizza-menu\src\ts\services\DataResource.ts133708419792315297 0
 73C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\lmdb\dependencies133702016301283686 1
 90C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\css-tree\lib\syntax\scope\index.js133702016338153708 0
 65C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\lmdb\dict133702016327263720 1
@@ -5899,8 +5899,8 @@
 87C:\xamppphp74\htdocs\typescript\pizza-menu\node_modules\.bin\update-browserslist-db.ps1133702016457153713 0
 56C:\xamppphp74\htdocs\typescript\pizza-menu\src\ts\models133703220225818571 1
 65C:\xamppphp74\htdocs\typescript\pizza-menu\src\ts\models\Pizza.ts133703231784447080 0
-58C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.html133703234290077474 0
-67C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.ebeadb08.css133703234290147055 0
 59C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.html133703234290677075 0
-66C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.6789991c.js133703234290707085 0
-70C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.6789991c.js.map133703234290757077 0
+66C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.6789991c.js133708419665465298 0
+58C:\xamppphp74\htdocs\typescript\pizza-menu\dist\index.html133708419665915305 0
+70C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.6789991c.js.map133708419665955475 0
+67C:\xamppphp74\htdocs\typescript\pizza-menu\dist\create.ebeadb08.css133708419666195307 0

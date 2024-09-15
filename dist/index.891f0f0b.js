@@ -610,9 +610,25 @@ class DataResource {
         const res = await fetch(this.endpoint);
         return res.json();
     }
-    async loadOne(id) {}
-    async delete(id) {}
-    async save(data) {}
+    async loadOne(id) {
+        const res = await fetch(`${this.endpoint}/${id}`);
+        return res.json();
+    }
+    async delete(id) {
+        const res = await fetch(`${this.endpoint}/${id}`, {
+            method: "DELETE"
+        });
+        return res;
+    }
+    async save(data) {
+        const res = await fetch(this.endpoint, {
+            method: "POST",
+            body: JSON.stringify(data),
+            headers: {
+                "Content-Type": "application/json"
+            }
+        });
+    }
 }
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gkKU3":[function(require,module,exports) {

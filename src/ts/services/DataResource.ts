@@ -10,7 +10,6 @@ async loadOne(id: number): Promise<T>{
     return res.json()
 }
 
-
 async delete(id: number): Promise<Response>{
     const res = await fetch(`${this.endpoint}/${id}`,{
         method: 'DELETE'
@@ -24,6 +23,5 @@ async save(data: T){
         body: JSON.stringify(data),
         headers: {'Content-Type': 'application/json'}
     })
+ }
 }
-}
-

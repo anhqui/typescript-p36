@@ -25,3 +25,4 @@ async save(data: T){
     })
  }
 }
+

@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", async ()=>{
    // create a template string for each pizza
    const pizzaTemplates = pizzas.map(createPizzaTemplate)
 
-
    // render pizza template to DOM
    renderTemplates(pizzaTemplates, rootElement)
     
 })
+
